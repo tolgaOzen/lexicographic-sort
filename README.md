@@ -4,7 +4,7 @@
 ![GitHub](https://img.shields.io/github/last-commit/tolgaOzen/lexicographic-sort)
 ![GitHub](https://img.shields.io/github/license/tolgaOzen/lexicographic-sort)
 
-generate new string between two given strings for lexicographic sort
+Generate new string between two given strings for lexicographic sorting
 
 ## Install
 ```
