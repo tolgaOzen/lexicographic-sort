@@ -57,17 +57,17 @@ func main() {
 ```
 
 
-##Motivation
+## Motivation
 My client asked me for the task management application that the user can custom sort items. My first thought was to open a numeric column for the items. This was a really bad idea. Because when the order of one item changed, the order of all items had to change. It was a bad process that exhausted the system and the database.
 Through my research, I realized that lexicographic sorting allows for tons of breathing room between sorted items.
 I've learned that for each item you want to reorder, it's as easy as just generating a new string between items above and below the range you want to put.
 
-##Author
+## Author
 >Tolga Özen
 
 >mtolgaozen@gmail.com
 
-##License
+## License
 
 MIT License
 
