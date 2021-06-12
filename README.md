@@ -6,8 +6,17 @@
 
 generate new string between two given strings for lexicographic sort
 
+## Install
+```
+go get -u github.com/tolgaOzen/lexicographic-sort
+```
 
-##Examples
+## Test
+```
+go test
+```
+
+## Examples
 
 ```go
 func main() {
